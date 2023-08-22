@@ -1,0 +1,105 @@
+
+m
+java:S1192Ã"JDefine a constant instead of duplicating this literal "Error: {}" 4 times.(®¸ÿøÿÿÿÿ8î´àÁ 1
+i
+java:S1192."GDefine a constant instead of duplicating this literal "error" 20 times.(Âşÿÿÿÿ8ï´àÁ 1
+a
+java:S21470"DCombine this catch with the one at line 45, which has the same body.(³Â¹8‹µàÁ 1
+a
+java:S2147@"DCombine this catch with the one at line 61, which has the same body.(³Â¹8µàÁ 1
+a
+java:S2147P"DCombine this catch with the one at line 77, which has the same body.(³Â¹8µàÁ 1
+a
+java:S2147b"DCombine this catch with the one at line 95, which has the same body.(³Â¹8µàÁ 1
+b
+java:S2147r"ECombine this catch with the one at line 111, which has the same body.(³Â¹8µàÁ 1
+c
+java:S2147"ECombine this catch with the one at line 126, which has the same body.(³Â¹8‘µàÁ 1
+c
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(³Â¹8“µàÁ 1
+I
+java:S1168"+Return an empty collection instead of null.(¥¹ï8˜µàÁ 1
+I
+java:S1168‘"+Return an empty collection instead of null.(¥¹ï8˜µàÁ 1
+c
+java:S2147Ÿ"ECombine this catch with the one at line 156, which has the same body.(³Â¹8™µàÁ 1
+c
+java:S2147¬"ECombine this catch with the one at line 169, which has the same body.(³Â¹8šµàÁ 1
+c
+java:S2147·"ECombine this catch with the one at line 180, which has the same body.(³Â¹8›µàÁ 1
+c
+java:S2147Ä"ECombine this catch with the one at line 193, which has the same body.(³Â¹8œµàÁ 1
+c
+java:S2147Ï"ECombine this catch with the one at line 204, which has the same body.(³Â¹8µàÁ 1
+I
+java:S1168Í"+Return an empty collection instead of null.(¥¹ï8µàÁ 1
+I
+java:S1168Ğ"+Return an empty collection instead of null.(¥¹ï8µàÁ 1
+c
+java:S2147Ü"ECombine this catch with the one at line 217, which has the same body.(³Â¹8µàÁ 1
+I
+java:S1168Ú"+Return an empty collection instead of null.(¥¹ï8ŸµàÁ 1
+I
+java:S1168İ"+Return an empty collection instead of null.(¥¹ï8ŸµàÁ 1
+c
+java:S2147é"ECombine this catch with the one at line 230, which has the same body.(³Â¹8 µàÁ 1
+a
+java:S1612ã"CReplace this lambda with method reference 'ExamObject::isApproved'.(§Éå¹8£µàÁ 1
+I
+java:S1168ç"+Return an empty collection instead of null.(¥¹ï8£µàÁ 1
+I
+java:S1168ê"+Return an empty collection instead of null.(¥¹ï8¤µàÁ 1
+c
+java:S2147õ"ECombine this catch with the one at line 242, which has the same body.(³Â¹8¤µàÁ 1
+c
+java:S2147€"ECombine this catch with the one at line 253, which has the same body.(³Â¹8¥µàÁ 1
+c
+java:S2147Œ"ECombine this catch with the one at line 265, which has the same body.(³Â¹8¦µàÁ 1
+I
+java:S1168Š"+Return an empty collection instead of null.(¥¹ï8§µàÁ 1
+I
+java:S1168"+Return an empty collection instead of null.(¥¹ï8§µàÁ 1
+c
+java:S2147—"ECombine this catch with the one at line 276, which has the same body.(³Â¹8§µàÁ 1
+c
+java:S2147¢"ECombine this catch with the one at line 287, which has the same body.(³Â¹8¨µàÁ 1
+I
+java:S1168 "+Return an empty collection instead of null.(¥¹ï8¨µàÁ 1
+I
+java:S1168£"+Return an empty collection instead of null.(¥¹ï8¨µàÁ 1
+c
+java:S2147®"ECombine this catch with the one at line 299, which has the same body.(³Â¹8©µàÁ 1
+I
+java:S1168¬"+Return an empty collection instead of null.(¥¹ï8©µàÁ 1
+I
+java:S1168¯"+Return an empty collection instead of null.(¥¹ï8©µàÁ 1
+c
+java:S2147º"ECombine this catch with the one at line 311, which has the same body.(³Â¹8ªµàÁ 1
+c
+java:S2147Ñ"ECombine this catch with the one at line 334, which has the same body.(³Â¹8¬µàÁ 1
+I
+java:S1168Ï"+Return an empty collection instead of null.(¥¹ï8¬µàÁ 1
+I
+java:S1168Ò"+Return an empty collection instead of null.(¥¹ï8¬µàÁ 1
+c
+java:S2147Ü"ECombine this catch with the one at line 345, which has the same body.(³Â¹8­µàÁ 1
+I
+java:S1168Ú"+Return an empty collection instead of null.(¥¹ï8­µàÁ 1
+I
+java:S1168İ"+Return an empty collection instead of null.(¥¹ï8­µàÁ 1
+c
+java:S2147è"ECombine this catch with the one at line 357, which has the same body.(³Â¹8®µàÁ 1
+c
+java:S2147ó"ECombine this catch with the one at line 368, which has the same body.(³Â¹8¯µàÁ 1
+I
+java:S1168ñ"+Return an empty collection instead of null.(¥¹ï8¯µàÁ 1
+I
+java:S1168ô"+Return an empty collection instead of null.(¥¹ï8¯µàÁ 1
+c
+java:S2147ÿ"ECombine this catch with the one at line 380, which has the same body.(³Â¹8¯µàÁ 1
+I
+java:S1168ı"+Return an empty collection instead of null.(¥¹ï8°µàÁ 1
+I
+java:S1168€"+Return an empty collection instead of null.(¥¹ï8°µàÁ 1
+c
+java:S2147Š"ECombine this catch with the one at line 391, which has the same body.(³Â¹8°µàÁ 1

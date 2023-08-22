@@ -1,0 +1,60 @@
+
+_
+java:S1192;"IDefine a constant instead of duplicating this literal "User: {}" 3 times.(ê¾©–
+`
+java:S1192;"JDefine a constant instead of duplicating this literal " Pass :  " 3 times.(ê¾©–
+c
+java:S1192"LDefine a constant instead of duplicating this literal "/ui/welcome" 4 times.(Æıàß
+i
+java:S1192x"NDefine a constant instead of duplicating this literal "approvedExams" 3 times.(Üôÿ½ıÿÿÿÿ
+_
+java:S1192–"IDefine a constant instead of duplicating this literal "students" 3 times.(¯Û¥3
+b
+java:S1192>"GDefine a constant instead of duplicating this literal "error" 18 times.(º·ŸÇÿÿÿÿÿ
+e
+java:S1192‡"NDefine a constant instead of duplicating this literal "Exam ID : {} " 3 times.(³òĞ
+c
+java:S1192A"HDefine a constant instead of duplicating this literal "message" 9 times.(Ÿ°¹…üÿÿÿÿ
+f
+java:S1192{"PDefine a constant instead of duplicating this literal "unapprovedExams" 3 times.(ù»ìÖ
+F
+java:S1066æ"/Merge this if statement with the enclosing one.(²‰±
+F
+java:S1066ç"/Merge this if statement with the enclosing one.(éÑœÀ
+
+java:S1488\"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(¿×½ñıÿÿÿÿ
+{
+java:S1488÷"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(¹ˆÇ
+~
+java:S1488¢"bImmediately return this expression instead of assigning it to the temporary variable "redirectTo".(¯€¸íıÿÿÿÿ
+€
+java:S1488Ò"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(¬£îèıÿÿÿÿ
+€
+java:S1488Ø"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(‰À†¹øÿÿÿÿ
+|
+java:S1488½"`Immediately return this expression instead of assigning it to the temporary variable "examView".(§Ã™‰øÿÿÿÿ
+_
+java:S1226…"IIntroduce a new variable instead of reusing the parameter "modelAndView".(İ˜ö7
+e
+java:S1226©"IIntroduce a new variable instead of reusing the parameter "modelAndView".(·ÿÑÍüÿÿÿÿ
+`
+java:S1226¬"IIntroduce a new variable instead of reusing the parameter "modelAndView".(ºÇŸÉ
+W	java:S125È"<This block of commented-out lines of code should be removed.(ôƒ°Üÿÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(Òóûşÿÿÿÿ
+Q	java:S125î"<This block of commented-out lines of code should be removed.(Ä®¬
+i
+java:S6204”"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+T
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(Ë2
+U
+java:S1854é"9Remove this useless assignment to local variable "score".(Ê­Áÿÿÿÿÿ
+R
+java:S1117Û";Rename "examDTO" which hides the field declared at line 39.(‘íàÿ
+i
+java:S6204á"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+Q
+java:S1854‡":Remove this useless assignment to local variable "scores".(”î©
+i
+java:S6204…"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+B
+java:S1481‡"+Remove this unused "scores" local variable.(”î©

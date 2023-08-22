@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ô½Âøÿÿÿÿ
+>
+java:S1165"#Make this "httpStatus" field final.(ı·¥ùÿÿÿÿ
+;
+java:S1165" Make this "message" field final.(ù„è¿ûÿÿÿÿ
+M
+java:S1161":Add the "@Override" annotation above this method signature(‡+
